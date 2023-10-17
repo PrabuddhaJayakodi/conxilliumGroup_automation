@@ -20,5 +20,7 @@ public class BaseTest {
 
         BaseTest btest = new BaseTest();
         btest.setup();
+
+        //test
     }
 }
